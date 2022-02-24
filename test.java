@@ -13,6 +13,7 @@ public class test
             firstFigur = number%10;
             number /= 10;
             secondFigure = number%10;
+//Hello git
             if(secondFigure>firstFigur)
                 nozuli = true;
 
